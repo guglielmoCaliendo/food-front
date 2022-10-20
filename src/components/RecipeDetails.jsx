@@ -123,6 +123,7 @@ const Score = styled.div`
 
 const Para = styled.p`
   font-size: 12px;
+  overflow-wrap: break-word;
   & a {
     color: #218a71;
     text-decoration: none;
